@@ -45,7 +45,7 @@ body {
 <body>
 <div class="first">
 <button class="button" onclick="document.location='guess.html'"> States of India</button>
-<button class="button button3" onclick="document.location='discover.html'">Discover India</button>
+<button class="button button3" onclick="document.location='main.html'">Discover India</button>
 </div>
 
 
